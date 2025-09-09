@@ -46,7 +46,7 @@ Sorla transforms how you consume news by combining **lightning-fast RSS aggregat
 <td width="33%">
 
 ### ⚡ Lightning Fast
-RSS-powered aggregation from thousands of global sources delivers news with minimal latency
+AI-powered aggregation from thousands of global sources delivers news with minimal latency
 
 </td>
 <td width="33%">
