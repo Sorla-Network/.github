@@ -22,7 +22,7 @@
 
 ## What is Sorla?
 
-Sorla transforms how you consume news by combining **lightning-fast RSS aggregation** with **real-time collaboration**. Gone are the days of passive news reading—Sorla creates an active, social experience where information meets conversation.
+Sorla transforms how you consume news by combining **lightning-fast news aggregation** with **real-time collaboration**. Gone are the days of passive news reading—Sorla creates an active, social experience where information meets conversation.
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Integrated messaging transforms news reading into active discussions and shared 
 ## The Sorla Experience
 
 ```
-1. AGGREGATE → Pull from thousands of RSS sources globally
+1. AGGREGATE → Pull from thousands of sources globally
                      ↓
 2. CUSTOMIZE → Apply your filters, topics, and preferences  
                      ↓
@@ -99,7 +99,7 @@ Integrated messaging transforms news reading into active discussions and shared 
 Built with modern web technologies for speed, reliability, and scale:
 
 - **Frontend**: JavaScript with modern frameworks
-- **Backend**: Real-time database and messaging infrastructure  
+- **Backend**: Supabase for real-time database and messaging infrastructure  
 - **Integration**: Advanced parsing and communication protocols
 - **Focus**: Performance, customization, and collaboration
 
