@@ -1,5 +1,3 @@
-# Sorla Network
-
 <div align="center">
 
 ```
